@@ -91,20 +91,7 @@ Modern Portfolio Website
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Zakaria-Bendida&theme=tokyonight"/>
 </p>
 
----
 
-
-# 📈 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakaria-Bendida&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zakaria-Bendida&theme=algolia&row=1&column=7"/>
-</p>
 
 ---
 
